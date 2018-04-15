@@ -1,0 +1,11 @@
+character sxy shenxiaoyang 0 100 50
+/<choiceBegin>
+choiceDescribe 1 sxy/<space>+10
+choiceDescribe 2 sxy/<space>-10
+choiceDescribe 3 sxy/<space>+100
+/<choiceDescribeEnd>
+choice 1 favor sxy gain 10
+choice 2 favor sxy lose 10
+choice 3 favor sxy gain 100
+/<choiceEnd>
+/<end>
