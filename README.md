@@ -1,0 +1,2 @@
+# thinkOfMe
+a galgame engine
