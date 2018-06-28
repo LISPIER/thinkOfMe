@@ -23,6 +23,7 @@ def getFavorIndexEffection(file):
                 )
                 )
 
+
 def createEvent():
     fileName = input("输入该事件文件的名称")
     file = open("events/newEvents/" + fileName + ".event", "w+", -1, 'utf-8')
